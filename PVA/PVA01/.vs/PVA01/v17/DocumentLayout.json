@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mipat\\Desktop\\github\\PVA\\PVA01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83E2B574-765C-470C-8FD5-22D340466495}|PVA01\\PVA01.csproj|c:\\users\\mipat\\desktop\\github\\pva\\pva01\\pva01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E2B574-765C-470C-8FD5-22D340466495}|PVA01\\PVA01.csproj|solutionrelative:pva01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mipat\\Desktop\\github\\PVA\\PVA01\\PVA01\\Program.cs",
+              "RelativeDocumentMoniker": "PVA01\\Program.cs",
+              "ToolTip": "C:\\Users\\mipat\\Desktop\\github\\PVA\\PVA01\\PVA01\\Program.cs",
+              "RelativeToolTip": "PVA01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T18:18:00.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
